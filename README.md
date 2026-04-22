@@ -20,7 +20,7 @@ The dataset contains player-level statistics from the 2023 VNL, including:
 - **Age**
 - **Performance Metrics:** Attack, Block, Serve, Dig  
 
-> *Note:* If you have a source, add it here.
+> (https://www.kaggle.com/datasets/yeganehbavafa/vnl-men-2023)
 
 ---
 
